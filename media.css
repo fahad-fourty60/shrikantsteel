@@ -1,0 +1,120 @@
+
+	
+@media (max-width:340px){
+	
+.mail {
+    background-color: #004d29;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    padding: 4px 7px 4px 16px;
+			        width: 112%;
+
+}	
+	
+	.commai {
+           display: flex;
+        background-color: white;
+        margin-bottom: 18px;
+        border-radius: 6px;
+        padding: 0px 24px;
+        align-items: center;
+        justify-content: center;
+}
+	
+	
+	.box-1 {
+    width: 100%;
+    background-color: #f7f7f7;
+    margin: 11px;
+    border-radius: 7px;
+    text-align: center;
+    border: 1.6px solid #00a85a;
+    padding: 22px 0px 4px 0px;
+}
+}
+	
+	
+	
+@media (max-width:700px){
+	
+	.but-main {
+    width: 100%;
+    margin-top: 33px;
+    /* display: inline-block; */
+    display: flex;
+    gap: 36px;
+    flex-direction: column;
+}
+	
+	
+	
+	
+	.small-heading span {
+    background-color: #d6ffec;
+    font-size: 1.7vh;
+    padding: 10px;
+    color: black;
+}
+	
+	
+	
+}
+
+
+
+@media (max-width:900px){
+	
+	.flex-hero {
+    display: flex;
+		flex-direction: column;
+    /* flex-wrap: wrap; */
+    background-image: url(shrikantsteel-product-page/shrikant-steel-fahad/hero/Vector.png);
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 0px 12px 0px 17px;
+    justify-content: center;
+    margin-top: 71px;
+    gap: 47px;
+}
+	.expert-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #004d29;
+    border-radius: 20px;
+     gap: 75px; 
+    padding: 26px;
+}
+	
+	.footer-container {
+    display: flex;
+    gap: 13px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 3px 5px 3px 1px;
+}
+	.trm-container {
+    display: flex;
+    flex-direction: column;
+		text-align: center;
+    align-items: center;
+     gap: 9px; 
+    padding: 28px 2px 21px 2px;
+    color: #000000d9;
+    justify-content: center;
+}
+	
+}
+
+
+
+@media (max-width:1200px){
+	
+	
+	
+}
